@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(159, 174, 48) ;
+}
+th{
+    text-align: left;
+    border-style:solid;
+    height:20px;
+    width:150px;
+    background-color: aliceblue;
+    border-spacing: 100px;
+    
+    padding:10px;
+   border-inline-end-width:20px;
+}
+
+h1{
+    
+    
+    color:rgb(88, 5, 88);
+}
+p{
+    
+    
+    color: rgb(88, 5, 88);
+    
+
+}
+
+a{
+text-decoration: none;
+}
+.main{
+    display:flex;
+}
+.sidebar{
+    flex:1;
+}
+.line{
+    width:100%;
+    border-top:1px dotted black;
+
+}
+.content{
+    flex:2;
+    align-items:flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}

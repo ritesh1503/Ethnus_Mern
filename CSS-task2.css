@@ -1,0 +1,19 @@
+.c2{
+    width:250px;
+    height:250px;
+}
+
+.c1{
+    display:flex;
+    flex-direction: row;
+   gap:250px
+}
+
+.c5{
+    display:flex;
+    flex-direction: row;
+     gap:150px
+}
+.c8{
+    text-align: center;
+}
